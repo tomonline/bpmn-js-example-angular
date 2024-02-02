@@ -1,5 +1,5 @@
 .diagram-parent {
-  height: 400px;
+  height: calc(100vh - 120px);
   border: solid 3px #EEE;
   position: relative;
 }
